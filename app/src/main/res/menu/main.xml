@@ -1,0 +1,53 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    >
+
+    <item
+        android:id="@+id/action_share"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:orderInCategory="100"
+        android:title="Share It"
+        />
+    <!--
+    <item
+        android:id="@+id/english1"
+        android:orderInCategory="100"
+        android:title="English Alphabets"/>
+
+    <item
+        android:id="@+id/speak1"
+        android:orderInCategory="100"
+        android:title="Speak"/>
+
+    <item
+        android:id="@+id/rhymes1"
+        android:orderInCategory="100"
+        android:title="Rhymes"/>
+
+    <item
+        android:id="@+id/homophones1"
+        android:orderInCategory="100"
+        android:title="Homophones"/>
+
+    <item
+        android:id="@+id/about1"
+        android:orderInCategory="100"
+        android:title="About Me"/>
+
+    <item
+        android:id="@+id/exit1"
+        android:orderInCategory="100"
+        android:title="Exit"
+        />-->
+
+    <!--<item
+        android:id="@+id/action_share"
+        android:actionProviderClass="android.widget.ShareActionProvider"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="H"
+        tools:ignore="AppCompatResource"/>-->
+
+</menu>

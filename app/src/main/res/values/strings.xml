@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="text1">A</string>
+    <string name="one">English alphabets with sentence and speech. \n ইংরেজী বর্নমালা বাক্য  সহ।</string>
+    <string name="aboutme">I am a CSE student of RAJSHAHI UNIVERSITY.\n Currently
+        I am developing Android apps.
+        \n I have recently completed my B.Sc.Hons.\n And now doing my M.Engg. in CSE.
+    \n My contact link is given bellow:</string>
+    <string name="aboutme2">https://web.facebook.com/SabbirK7</string>
+
+
+    <string-array name="item_list">
+        <item>English Alphabets</item>
+        <item>Speak</item>
+        <item>Rhymes</item>
+        <item>Homophones</item>
+        <item>About Me</item>
+        <item>Exit</item>
+    </string-array>
+</resources>
